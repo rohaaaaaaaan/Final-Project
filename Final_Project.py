@@ -1,7 +1,7 @@
 # rohaan mirza
 # 17/1/25
 # pd 1-2
-# in this game you must collect all the pieces of trash to keep yourscore up and win the game while you evade monsters that will attack you and take away your health points which causes you to lose the game 
+# The Trash Collector Game is a simple, interactive adventure game where players explore different environments, collect trash, and experience random events. With basic animations and a simple GUI, the game provides a fun and engaging experience while also teaching basic game mechanics like inventory management, random events, and health systems. The game is replayable with the option to restart and try again after winning or losing.
 
 import simplegui
 import random
