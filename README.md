@@ -1,1 +1,1 @@
-# Final-Project
+The Trash Collector Game is a simple, interactive adventure game where players explore different environments, collect trash, and experience random events. With basic animations and a simple GUI, the game provides a fun and engaging experience while also teaching basic game mechanics like inventory management, random events, and health systems. The game is replayable with the option to restart and try again after winning or losing.
