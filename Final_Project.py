@@ -1,3 +1,8 @@
+# rohaan mirza
+# 17/1/25
+# pd 1-2
+# in this game you must collect all the pieces of trash to keep yourscore up and win the game while you evade monsters that will attack you and take away your health points which causes you to lose the game 
+
 import simplegui
 import random
 
